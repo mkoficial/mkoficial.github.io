@@ -1,0 +1,180 @@
+body{
+    background-color: rgb(0, 255, 128);
+}
+*{
+    margin: 0px;
+    border: 0px;
+    color: #000;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    background: rgb(16, 16, 66);
+    width: 100%;
+}
+header nav ul{
+    display: flex;
+}
+header nav div{
+    padding: 15px;
+}
+header nav div a{
+    text-align: end;
+    color: #fff;
+}
+header nav div i{
+    color: #fff;
+}
+/* section */
+section h2{
+    text-align: center;
+    padding: 40px;
+    font-size: 40px;
+}
+.h3{
+    text-align: center;
+    width: 100%;
+}
+.h3 h3{
+    color: #fff;
+    font-size: 30px;
+    padding: 30px;
+}
+.h3 .pppreto{
+    background-color: #000;
+    padding: 30px;
+}
+.h3 .ppreto{
+    background-color: #4a4a4a;
+    padding: 30px;
+}
+.h3 .preto{
+    background-color: #878787;
+    padding: 30px;
+}
+.h3 .opreto{
+    background-color: #bebebe;
+    padding: 30px;
+}
+.h3 .oopreto{
+    background-color: #fff;
+    padding: 30px;
+    color: #000;
+}
+.h3 .aaazul{
+    background-color: #00137b;
+    padding: 30px;
+}
+.h3 .aazul{
+    background-color: #0019a8;
+    padding: 30px;
+}
+.h3 .azul{
+    background-color: #0026ff;
+    padding: 30px;
+}
+.h3 .lazul{
+    background-color: #3957ff;
+    padding: 30px;
+}
+.h3 .llazul{
+    background-color: #7b8fff;
+    padding: 30px;
+}
+.h3 .vvverde{
+    background-color: #7b8fff;
+}
+.h3 .vvverde{
+    background-color: #006b1d;
+}
+.h3 .vverde{
+    background-color: #00b530;
+}
+.h3 .verde{
+    background-color: #00ff44;
+}
+.h3 .everde{
+    background-color: #3dff71;
+}
+.h3 .eeverde{
+    background-color: #75ff9a;
+}
+.h3 .yyyello{
+    background-color: #798900;
+}
+.h3 .yyello{
+    background-color: #afc700;
+}
+.h3 .yello{
+    background-color: #e1ff00;
+    color: #000;
+}
+.h3 .oyello{
+    background-color: #eaff49;
+    color: #000;
+}
+.h3 .ooyello{
+    background-color: #efff7a;
+    color: #000;
+}
+.h3 .lllaranja{
+    background-color: #8f5d00;
+}
+.h3 .llaranja{
+    background-color: #ba7900;
+}
+.h3 .laranja{
+    background-color: #ffa600;
+}
+.h3 .alaranja{
+    background-color: #ffbd42;
+}
+.h3 .aalaranja{
+    background-color: #ffcf75;
+}
+.h3 .rrred{
+    background-color: #7e0000;
+}
+.h3 .rred{
+    background-color: #b70000;
+}
+.h3 .red{
+    background-color: #ff0000;
+}
+.h3 .dred{
+    background-color: #ff4646;
+}
+.h3 .ddred{
+    background-color: #ff7e7e;
+}
+.h3 .rrrosa{
+    background-color: #7e006d;
+}
+.h3 .rrosa{
+    background-color: #b3009b;
+}
+.h3 .rosa{
+    background-color: #ff00dd;
+}
+.h3 .arosa{
+    background-color: #ff3fe5;
+}
+.h3 .aarosa{
+    background-color: #ff7aed;
+}
+/* footer */
+footer{
+    text-align: center;
+    background-image: linear-gradient(#161666, rgb(0, 0, 0));
+    padding: 100px;
+    width: 100%;
+}
+footer .h1 h1{
+    text-align: center;
+    font-size: 75px;
+    color: #fff;
+}
+footer .sociais i{
+    font-size: 25px;
+    color: #ffffff;
+}
